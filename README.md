@@ -1,2 +1,3 @@
 # utils-js
-javascript utilities
+utilities written in javascript.
+
